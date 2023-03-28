@@ -3,3 +3,6 @@
 # Added about.html
 # Added portfolio.html 
 # Added skeletons to about.html/portfolio.html
+# Created style.css file
+# Added 2 hobbies to about.html
+# Edited the colors and underlining for all three webpages using styles.css
