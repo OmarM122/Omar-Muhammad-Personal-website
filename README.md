@@ -6,3 +6,5 @@
 # Created style.css file
 # Added 2 hobbies to about.html
 # Edited the colors and underlining for all three webpages using styles.css
+# Added .js file 
+# Increased text size in index.html 

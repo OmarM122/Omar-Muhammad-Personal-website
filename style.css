@@ -11,3 +11,7 @@ h1{
     text-decoration: underline;
     color: crimson;
 }
+p{
+    font-size: x-large;
+    font-style: initial;
+}
