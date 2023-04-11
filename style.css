@@ -5,6 +5,7 @@ img {
 body{
     background-color: black;
     color: aqua;
+    width: 100vw;
 }
 
 h1{
@@ -14,4 +15,43 @@ h1{
 p{
     font-size: x-large;
     font-style: initial;
+}
+
+nav{
+    display: flex;
+    margin-left: 85%;
+    gap: 5px;
+}
+
+#form{
+    display: flex;
+    flex-direction: column;
+    width:30%;
+}
+#submitButton{
+    margin-top: 1rem;
+    padding: 1rem;
+    /* width: 20%; */
+    align-self: center;
+}
+
+.formInput {
+    margin: .5rem;
+    display: flex;
+    flex-direction: column;
+    /* width: 30%; */
+    align-self: center; 
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50em;
+}
+
+.button-container{
+    width:100%;
+    display: flex;
+    justify-content: center;
 }
